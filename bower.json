@@ -1,0 +1,14 @@
+{
+  "name": "forshre-front",
+  "version": "0.0.1",
+  "description": "Aplicacion para compartir cosas que no utilizas",
+  "dependencies": {
+    "angular": "~1.2.21",
+    "bootstrap": "~3.2.0",
+    "fontawesome": "~4.1.0",
+    "angular-route": "~1.2.21",
+    "angular-resource": "~1.2.21",
+    "angular-motion": "~0.4.3",
+    "angular-animate": "~1.4.7"
+  }
+}

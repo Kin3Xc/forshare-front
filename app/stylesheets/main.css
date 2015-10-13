@@ -1,0 +1,32 @@
+body {
+  background-color: #f4f4f4;
+}
+.Login {
+  width: 550px;
+  margin: 80px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+}
+.Login-redes {
+  margin: 10px 18px;
+}
+.Login-item {
+  margin: 15px 0;
+}
+.Login-header {
+  border-bottom: 1px solid #ddd;
+}
+.Login-title {
+  color: #d17801;
+  font-weight: 900;
+}
+.Register {
+  width: 550px;
+  margin: 80px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 3px;
+  border: 1px solid #ddd;
+}
